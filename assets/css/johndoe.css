@@ -11708,7 +11708,7 @@ pre .code {
 .image-container {
   display: flex;
   justify-content: space-around; /* Coloca las imágenes con espacio entre ellas en pantallas grandes */
-  flex-wrap: wrap; /* Permite que las imágenes se apilen en pantallas pequeñas */
+  /*flex-wrap: wrap; /* Permite que las imágenes se apilen en pantallas pequeñas */
   margin-top: 20px; /* Añade algo de espacio entre el texto y las imágenes */
 }
 
